@@ -1,43 +1,135 @@
 # Luminary 2.0 🌟
 
-Luminary is a productivity-focused learning platform designed to help students stay consistent, track progress, and structure their study workflow.
+Luminary 2.0 is a productivity-focused learning platform designed to help students stay consistent, organize their study workflow, and improve their learning efficiency.
 
-The application combines roadmap generation, focused study tools, and coding practice into one unified environment.
+The platform combines structured learning roadmaps, focus tools, and coding practice into a single unified environment.
 
 ---
 
 ## 🚀 Features
 
-- 📚 **AI Roadmap Generator**  
-  Generate structured learning roadmaps for any topic.
+### 📚 AI Roadmap Generator
+Generate structured learning roadmaps for any topic to guide your study journey.
 
-- ⏱ **Pomodoro Study Timer**  
-  Built-in focus timer to improve productivity and reduce distractions.
+### ⏱ Pomodoro Study Timer
+Built-in focus timer that helps maintain productivity and prevent burnout.
 
-- 🔥 **Study Streak Calendar**  
-  Track your daily study streak and maintain consistency.
+### 🔥 Study Streak Calendar
+Track daily study habits and maintain a consistent learning streak.
 
-- ⚔️ **LeetCode Battleground**  
-  Practice coding problems and improve problem-solving skills.
+### ⚔️ LeetCode Battleground
+A dedicated environment for practicing coding problems and improving problem-solving skills.
 
-- 🗂 **Task / Study Management**  
-  Organize study sessions and track learning progress.
+### 🗂 Study / Task Management
+Organize learning sessions and track study progress efficiently.
 
 ---
 
 ## 🛠 Tech Stack
 
-**Frontend**
+### Frontend
 - React
 - Vite
 - TypeScript
 - Tailwind CSS
 - shadcn/ui
 
-**Development Tools**
+### Development Tools
 - ESLint
-- Bun / Node.js
+- Node.js / Bun
 
 ---
 
 ## 📂 Project Structure
+
+```
+Luminary2.0
+│
+├── src/                # Main application source code
+├── components/         # Reusable UI components
+├── public/             # Static assets
+├── dist/               # Production build
+├── package.json        # Project dependencies
+└── vite.config.ts      # Vite configuration
+```
+
+---
+
+## ⚙️ Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/eepyllama/Luminary2.0.git
+```
+
+Navigate into the project directory:
+
+```bash
+cd Luminary2.0
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run the development server:
+
+```bash
+npm run dev
+```
+
+---
+
+## 🧪 Build for Production
+
+Build the project:
+
+```bash
+npm run build
+```
+
+Preview the production build:
+
+```bash
+npm run preview
+```
+
+---
+
+## 📌 Future Improvements
+
+- AI-powered study recommendations
+- Learning analytics dashboard
+- Collaborative study groups
+- Integration with coding practice platforms
+
+---
+
+## 👩‍💻 Author
+
+**Kasharika Uppal**
+
+Computer Science Student  
+AI / ML Enthusiast  
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome.
+
+Steps to contribute:
+
+1. Fork the repository
+2. Create a new branch
+3. Commit your changes
+4. Submit a pull request
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
