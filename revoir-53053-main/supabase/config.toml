@@ -1,0 +1,19 @@
+project_id = "mkddzrbjcclaxgaylmsu"
+
+[functions.decompose-goal]
+verify_jwt = false
+
+[functions.sort-roadmap]
+verify_jwt = false
+
+[functions.generate-study-plan]
+verify_jwt = false
+
+[functions.add-calendar-events]
+verify_jwt = false
+
+[functions.leetcode-daily]
+verify_jwt = false
+
+[functions.ai-coach]
+verify_jwt = false
